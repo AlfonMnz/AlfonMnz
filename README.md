@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9e5eHVSDYdI/0.jpg)](https://www.youtube.com/watch?v=9e5eHVSDYdI)
+
 <!--
 **AlfonMnz/AlfonMnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
